@@ -2,6 +2,10 @@
 
 Performed fruit classification and predict freshness of fruit using ResNet50 & MobileNet
 Tflite of model to deploy on Android studio
+
+Goal: Implement Robust Machine learning model that can get good prediction accuracy
+      The size of the model should be less than 5 MB
+
 ![image](https://github.com/shivamrpsingh/cnn_classifier/assets/56008163/e49179fb-87e1-4cde-a98d-ee44d2ecf8ad)
 
 Overview:
