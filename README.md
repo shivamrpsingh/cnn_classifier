@@ -37,6 +37,7 @@ Size Comparision
 ![image](https://github.com/shivamrpsingh/cnn_classifier/assets/56008163/c165cb40-031d-4b2b-a2bd-357c2f3a3134)
 
 Android demo
+https://github.com/shivamrpsingh/cnn_classifier/blob/main/Media1%20(1).mp4
 
 
 
