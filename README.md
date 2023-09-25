@@ -25,7 +25,8 @@ Results Model comparision (Mobinet vs Resnet50)
 
 Evaluation:
 Confusion matrix
-![image](https://github.com/shivamrpsingh/cnn_classifier/assets/56008163/494faa8d-a4d4-4b7b-8051-69f1f016f16a)
+![image](https://github.com/shivamrpsingh/cnn_classifier/assets/56008163/fa56b8bc-bc50-4c98-949f-8bb57306578e)
+
 
 
 
