@@ -28,5 +28,25 @@ Confusion matrix
 ![image](https://github.com/shivamrpsingh/cnn_classifier/assets/56008163/fa56b8bc-bc50-4c98-949f-8bb57306578e)
 
 
+Size Comparision
+
+![image](https://github.com/shivamrpsingh/cnn_classifier/assets/56008163/c165cb40-031d-4b2b-a2bd-357c2f3a3134)
+
+
+
+Android View
+![image](https://github.com/shivamrpsingh/cnn_classifier/assets/56008163/496faffa-9d81-4c21-94c2-90b11e58ea21)
+
+
+Android Output
+
+
+
+
+
+
+
+
+
 
 
